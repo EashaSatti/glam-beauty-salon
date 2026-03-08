@@ -13,7 +13,6 @@ const galleryItems = [
   { id: 5, category: 'Nails', image: IMAGES.gallery[4] },
   { id: 6, category: 'Hair', image: IMAGES.gallery[5] },
   { id: 7, category: 'Bridal', image: IMAGES.gallery[6] },
-  { id: 8, category: 'Makeup', image: IMAGES.gallery[7] },
   { id: 9, category: 'Nails', image: IMAGES.gallery[8] },
 ];
 
