@@ -1,0 +1,5 @@
+{
+  "name": "Glam & Beauty Salon",
+  "description": "A House of Brides - Ultra-luxurious feminine bridal beauty salon in Rawalpindi.",
+  "requestFramePermissions": ["geolocation"]
+}
