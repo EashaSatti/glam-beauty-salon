@@ -9,16 +9,16 @@ export const IMAGES = {
   heroBackground: "/images/hero-bg.avif",
   
   // About Section
-  aboutInterior: "images/about-interior.avif",
-  aboutOwnerIcon: "images/aboutOwnerIcon.png",
+  aboutInterior: "/images/about-interior.avif",
+  aboutOwnerIcon: "/images/aboutOwnerIcon.png",
   
   // Services Section
-  serviceBridal: "images/serviceBridal.png",
-  serviceHair: "images/hairService.png",
-  serviceFacial: "images/facial.png",
-  serviceSpa: "images/hairSpa.png",
+  serviceBridal: "/images/serviceBridal.png",
+  serviceHair: "/images/hairService.png",
+  serviceFacial: "/images/facial.png",
+  serviceSpa: "/images/hairSpa.png",
   serviceNails: "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&q=80&w=600",
-  serviceMehndi: "images/mehndi.png",
+  serviceMehndi: "/images/mehndi.png",
   
   // Gallery Section
   gallery: [
